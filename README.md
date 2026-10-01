@@ -11,6 +11,7 @@ Official icon library for the WindCrypto product family. Every asset is supplied
 | Wisp Wallet | [PNG](assets/wisp-wallet/wisp-wallet-1024.png) | [PNG](assets/wisp-wallet/wisp-wallet-512.png) | [PNG](assets/wisp-wallet/wisp-wallet-256.png) | [PNG](assets/wisp-wallet/wisp-wallet-128.png) |
 | Wind Explorer | [PNG](assets/wind-explorer/wind-explorer-1024.png) | [PNG](assets/wind-explorer/wind-explorer-512.png) | [PNG](assets/wind-explorer/wind-explorer-256.png) | [PNG](assets/wind-explorer/wind-explorer-128.png) |
 | WindSwap | [PNG](assets/windswap/windswap-1024.png) | [PNG](assets/windswap/windswap-512.png) | [PNG](assets/windswap/windswap-256.png) | [PNG](assets/windswap/windswap-128.png) |
+| Wind DEX | [PNG](assets/wind-dex/wind-dex-1024.png) | [PNG](assets/wind-dex/wind-dex-512.png) | [PNG](assets/wind-dex/wind-dex-256.png) | [PNG](assets/wind-dex/wind-dex-128.png) |
 | Wind Launch | [PNG](assets/wind-launch/wind-launch-1024.png) | [PNG](assets/wind-launch/wind-launch-512.png) | [PNG](assets/wind-launch/wind-launch-256.png) | [PNG](assets/wind-launch/wind-launch-128.png) |
 | Wisp Space | [PNG](assets/wisp-space/wisp-space-1024.png) | [PNG](assets/wisp-space/wisp-space-512.png) | [PNG](assets/wisp-space/wisp-space-256.png) | [PNG](assets/wisp-space/wisp-space-128.png) |
 | Wisp Arena | [PNG](assets/wisp-arena/wisp-arena-1024.png) | [PNG](assets/wisp-arena/wisp-arena-512.png) | [PNG](assets/wisp-arena/wisp-arena-256.png) | [PNG](assets/wisp-arena/wisp-arena-128.png) |
@@ -26,6 +27,7 @@ Official icon library for the WindCrypto product family. Every asset is supplied
     <td align="center"><img src="assets/wisp-wallet/wisp-wallet-256.png" width="128" alt="Wisp Wallet icon"><br>Wisp Wallet</td>
     <td align="center"><img src="assets/wind-explorer/wind-explorer-256.png" width="128" alt="Wind Explorer icon"><br>Wind Explorer</td>
     <td align="center"><img src="assets/windswap/windswap-256.png" width="128" alt="WindSwap icon"><br>WindSwap</td>
+    <td align="center"><img src="assets/wind-dex/wind-dex-256.png" width="128" alt="Wind DEX icon"><br>Wind DEX</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/wind-launch/wind-launch-256.png" width="128" alt="Wind Launch icon"><br>Wind Launch</td>
