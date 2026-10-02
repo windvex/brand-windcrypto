@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<title>WISP Token</title>
+<defs>
+  <linearGradient id="face" x1="20%" y1="10%" x2="75%" y2="100%">
+    <stop offset="0%" stop-color="#FFF77A"/>
+    <stop offset="52%" stop-color="#FFD62E"/>
+    <stop offset="100%" stop-color="#FF9B0B"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="18%" y1="8%" x2="82%" y2="92%">
+    <stop offset="0%" stop-color="#6AF7FF"/>
+    <stop offset="26%" stop-color="#16C9F6"/>
+    <stop offset="60%" stop-color="#0871F6"/>
+    <stop offset="100%" stop-color="#1231C7"/>
+  </linearGradient>
+  <linearGradient id="blueHi" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#A5FDFF"/>
+    <stop offset="100%" stop-color="#24CFF8"/>
+  </linearGradient>
+  <linearGradient id="iris" x1="30%" y1="0%" x2="70%" y2="100%">
+    <stop offset="0%" stop-color="#1735A8"/>
+    <stop offset="58%" stop-color="#0C5DE2"/>
+    <stop offset="100%" stop-color="#19D7FF"/>
+  </linearGradient>
+</defs>
+
+<!-- yellow spirit head -->
+<path d="M205 642C205 500 328 401 512 401s307 99 307 241c0 155-122 260-307 260S205 797 205 642Z" fill="url(#face)"/>
+<path d="M211 617c-68-22-96-79-63-126 24-34 71-45 116-24-28 38-46 85-53 150Z" fill="#FFB414"/>
+<path d="M813 617c68-22 96-79 63-126-24-34-71-45-116-24 28 38 46 85 53 150Z" fill="#FFB414"/>
+
+<!-- signature Wisp spiral -->
+<path d="M238 501C205 365 304 214 466 188c157-26 316 55 348 177 25 95-39 179-130 190-78 9-144-38-143-98 1-49 38-83 82-82 36 1 62 25 62 56" fill="none" stroke="url(#blue)" stroke-width="150" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M251 484C231 371 319 247 459 224" fill="none" stroke="url(#blueHi)" stroke-width="27" stroke-linecap="round" opacity=".78"/>
+<path d="M689 223c64-30 134-11 174 40-59-7-111 9-151 50-4-33-12-62-23-90Z" fill="#0A57ED"/>
+<path d="M250 369c-64-1-115-26-145-77 63 20 117 10 163-31-11 35-17 71-18 108Z" fill="#0B62F1"/>
+<path d="M770 425c56 2 103-20 139-66-3 60-34 109-91 141-11-29-27-54-48-75Z" fill="#0870F4"/>
+
+<!-- face details -->
+<path d="M321 560c29-28 70-33 106-11" fill="none" stroke="#18307A" stroke-width="20" stroke-linecap="round"/>
+<path d="M597 549c36-22 77-17 106 12" fill="none" stroke="#18307A" stroke-width="20" stroke-linecap="round"/>
+
+<ellipse cx="378" cy="674" rx="105" ry="126" fill="#FFFFFF"/>
+<ellipse cx="646" cy="674" rx="105" ry="126" fill="#FFFFFF"/>
+<ellipse cx="390" cy="689" rx="77" ry="94" fill="url(#iris)"/>
+<ellipse cx="634" cy="689" rx="77" ry="94" fill="url(#iris)"/>
+<ellipse cx="397" cy="694" rx="48" ry="61" fill="#061641"/>
+<ellipse cx="627" cy="694" rx="48" ry="61" fill="#061641"/>
+<circle cx="367" cy="646" r="24" fill="#FFFFFF"/>
+<circle cx="604" cy="646" r="24" fill="#FFFFFF"/>
+<circle cx="420" cy="732" r="13" fill="#45EEFF"/>
+<circle cx="658" cy="732" r="13" fill="#45EEFF"/>
+
+<ellipse cx="302" cy="759" rx="60" ry="30" fill="#F89B11" opacity=".25"/>
+<ellipse cx="722" cy="759" rx="60" ry="30" fill="#F89B11" opacity=".25"/>
+
+<path d="M434 770c47 38 109 39 156 0 3 64-31 108-78 109-47 0-81-43-78-109Z" fill="#781821"/>
+<path d="M458 839c34-26 73-27 106-2-12 25-31 40-54 40-23 0-41-13-52-38Z" fill="#FF5B64"/>
+</svg>

@@ -9,6 +9,7 @@ Official icon library for the WindCrypto product family. Every asset is supplied
 | Wind Crypto | [PNG](assets/wind-crypto/wind-crypto-1024.png) | [PNG](assets/wind-crypto/wind-crypto-512.png) | [PNG](assets/wind-crypto/wind-crypto-256.png) | [PNG](assets/wind-crypto/wind-crypto-128.png) |
 | Wind Node | [PNG](assets/wind-node/wind-node-1024.png) | [PNG](assets/wind-node/wind-node-512.png) | [PNG](assets/wind-node/wind-node-256.png) | [PNG](assets/wind-node/wind-node-128.png) |
 | Wisp Wallet | [PNG](assets/wisp-wallet/wisp-wallet-1024.png) | [PNG](assets/wisp-wallet/wisp-wallet-512.png) | [PNG](assets/wisp-wallet/wisp-wallet-256.png) | [PNG](assets/wisp-wallet/wisp-wallet-128.png) |
+| WISP Token | [PNG](assets/wisp-token/wisp-token-1024.png) | [PNG](assets/wisp-token/wisp-token-512.png) | [PNG](assets/wisp-token/wisp-token-256.png) | [PNG](assets/wisp-token/wisp-token-128.png) |
 | Wind Explorer | [PNG](assets/wind-explorer/wind-explorer-1024.png) | [PNG](assets/wind-explorer/wind-explorer-512.png) | [PNG](assets/wind-explorer/wind-explorer-256.png) | [PNG](assets/wind-explorer/wind-explorer-128.png) |
 | WindSwap | [PNG](assets/windswap/windswap-1024.png) | [PNG](assets/windswap/windswap-512.png) | [PNG](assets/windswap/windswap-256.png) | [PNG](assets/windswap/windswap-128.png) |
 | Wind DEX | [PNG](assets/wind-dex/wind-dex-1024.png) | [PNG](assets/wind-dex/wind-dex-512.png) | [PNG](assets/wind-dex/wind-dex-256.png) | [PNG](assets/wind-dex/wind-dex-128.png) |
@@ -35,12 +36,14 @@ Official icon library for the WindCrypto product family. Every asset is supplied
     <td align="center"><img src="assets/wisp-arena/wisp-arena-256.png" width="128" alt="Wisp Arena icon"><br>Wisp Arena</td>
     <td align="center"><img src="assets/windstack-sdk/windstack-sdk-256.png" width="128" alt="WindStack SDK icon"><br>WindStack SDK</td>
     <td align="center"><img src="assets/wind-token/wind-token-256.png" width="128" alt="WIND token icon"><br>WIND Token</td>
+    <td align="center"><img src="assets/wisp-token/wisp-token-256.png" width="128" alt="WISP token icon"><br>WISP Token</td>
   </tr>
 </table>
 
 ## Usage
 
 - Use the icon that matches the named product or token.
+- WISP Token includes an editable vector source at `assets/wisp-token/wisp-token.svg`.
 - Preserve the original proportions, colors, and transparent padding.
 - Keep adequate clear space around each mark.
 - Do not add text, effects, outlines, or alternate colors to the icon.
