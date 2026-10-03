@@ -43,7 +43,7 @@ Official icon library for the WindCrypto product family. Every asset is supplied
 ## Usage
 
 - Use the icon that matches the named product or token.
-- WISP Token includes an editable vector source at `assets/wisp-token/wisp-token.svg`.
+- WISP Token uses the official transparent mascot mark, optimized for wallet, explorer, DEX, CoinGecko, and CoinMarketCap listings.
 - Preserve the original proportions, colors, and transparent padding.
 - Keep adequate clear space around each mark.
 - Do not add text, effects, outlines, or alternate colors to the icon.
